@@ -67,3 +67,16 @@ install -m 644 %{_sourcedir}/%{name}.rom %{buildroot}%{_datadir}/apps/dcmo5
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Tue Aug 02 2011 Andrey Bondrov <abondrov@mandriva.org> 11.2-2mdv2012.0
++ Revision: 692795
+- imported package dcmo5
+
+
+* Sun Nov 09 2008 Guillaume Rousse <guillomovitch@zarb.org> 11.2-1plf2009.1
+-  contributed by Jean-Christophe Cardot (<plf@cardot.net>)
+
+* Mon Oct 27 2008 Jean-Christophe Cardot <plf@cardot.net> 11.0-1plf
+- release

@@ -1,6 +1,4 @@
 sources:
-  "dcmo5-16.png:"	4e9ab46b061c7ca4678e961d897cf8b5dc88282a
-  "dcmo5-32.png:"	e19b35f6f0e270649d45b2abbbf8638b8fcd68fc
-  "dcmo5.rom:"	cb97141e8fc3862d103673109dc4da71f54e5358
-  "dcmo5v11.0.tar.gz:"	f015aae20c47afd8cb2186e7b631035b5f6e5b13
-  "dcmo5v11.2.tar.gz:"	ccb623e2e3d406ea14ff89617ebbb1eef5d8d760
+  "dcmo5v11.0.tar.gz": f015aae20c47afd8cb2186e7b631035b5f6e5b13
+  "dcmo5v11.2-user_directory.patch.bz2": 9ea99285c9205da3b3c76c085ba5efe32e238e8b
+  "dcmo5v11.2.tar.gz": ccb623e2e3d406ea14ff89617ebbb1eef5d8d760
