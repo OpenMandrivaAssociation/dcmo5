@@ -1,7 +1,7 @@
 Summary:	Thomson MO5 emulator
 Name:		dcmo5
 Version:	11.2
-Release:	3
+Release:	4
 License:	GPLv3+
 Group:		Emulators
 Url:		http://dcmo5.free.fr/
