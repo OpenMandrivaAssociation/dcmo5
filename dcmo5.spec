@@ -4,7 +4,7 @@ Version:	11.2
 Release:	4
 License:	GPLv3+
 Group:		Emulators
-Url:		http://dcmo5.free.fr/
+Url:		https://dcmo5.free.fr/
 Source0:	http://dcmo5.free.fr/v11/download/%{name}v11.0.tar.gz
 Source1:	http://dcmo5.free.fr/v11/download/%{name}v%{version}.tar.gz
 Source2:	%{name}-32.png
