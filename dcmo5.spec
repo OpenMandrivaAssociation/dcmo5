@@ -11,6 +11,7 @@ Source2:	%{name}-32.png
 Source3:	%{name}-16.png
 Source4:	%{name}.rom
 Patch0:		dcmo5v11.2-user_directory.patch.bz2
+BuildRequires:	make
 BuildRequires:	pkgconfig(sdl)
 BuildRequires:	pkgconfig(SDL_ttf)
 
